@@ -1,2 +1,4 @@
 # vue-trace
-vue.js test
+这是一个vue的学习项目
+基本上涵盖了vue的基础以及一些高级知识
+适合新手入门
